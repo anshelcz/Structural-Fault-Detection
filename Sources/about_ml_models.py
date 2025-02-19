@@ -1,3 +1,11 @@
+"""
+Title: Function file about ML models
+Author: Anshel Chuquiviguel Zaña
+Contact: anshel.chuquiviguel@utec.edu.pe
+Created: February 19, 2025
+Last Updated: February 19, 2025
+Version: 1.0
+"""
 import numpy as np
 import pandas as pd
 import seismic_signal_analysis as ssa
