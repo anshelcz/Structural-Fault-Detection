@@ -1,3 +1,11 @@
+"""
+Title: Automated tool for the detection of structural faults through machine learning models and seismic signal processing
+Author: Anshel Chuquiviguel Zaña
+Contact: anshel.chuquiviguel@utec.edu.pe
+Created: February 19, 2025
+Last Updated: February 19, 2025
+Version: 1.0
+"""
 import sys
 import os
 import warnings
