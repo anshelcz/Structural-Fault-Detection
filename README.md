@@ -49,7 +49,7 @@ The primary goal of this research was to develop and validate machine learning m
 
 ### Results
 - Model Performance:
-  - Accuracy: 96-98% for both detection and localization
+  - Accuracy: 96-99% for both detection and localization
   - Precision, Recall, F1-score: 97-98%
 - Key Findings:
   - Fourth floor measurements showed highest importance
