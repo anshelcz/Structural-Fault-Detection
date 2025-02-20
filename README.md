@@ -1,7 +1,7 @@
 # Structural-Fault-Detection
 An automated tool based on Machine learning techniques for the detection of structural failures
 
-This repository contains the implementation of an automated structural fault detection system using machine learning techniques, as described in our research paper. The system can detect and localize structural damage in buildings by analyzing seismic sensor data.
+This repository contains the implementation of an automated structural fault detection system using machine learning techniques. The system can detect and localize structural damage in buildings by analyzing seismic sensor data.
 
 ![Experimental Setup](images/experimental_setup.jpg)
 *Figure 1: Experimental Setup - Three-Dimensional Model for Seismic Response Analysis at UTEC Laboratory*
